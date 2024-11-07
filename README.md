@@ -33,7 +33,7 @@ This set of exercises focuses on building a basic product inventory management s
 *   Add a "Delete" button for each row in the displayed data.
 *   Write a PHP script that, when the "Delete" button is clicked, deletes the corresponding product record from the database.
 
-# Screenshot
+## Screenshot
 
 ### Product List
 ![Product List](screenshots/index.png)
